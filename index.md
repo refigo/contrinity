@@ -1,8 +1,6 @@
 ---
-title: Welcome to my blog
+title: Blog
 ---
 
-Backend/Software Engineer
-
-Robotics / IoT / Autonomous Driving
+Doc Dog
 
